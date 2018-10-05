@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\bin\Debug\StickyNotes1.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.AddCategory.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.AddNote.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.DashBoard.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\bin\Debug\StickyNotes1.exe
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\bin\Debug\StickyNotes1.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.exe
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.LoginForm.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.RegisterUserForm.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.NoteStatus.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.DisplayNote.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.DisplayCategory.resources
+C:\Users\USER\documents\visual studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.NoteSearch.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.DisplayUser.resources
+D:\Binod Document\Soft\StickyNotes1\StickyNotes1\bin\Debug\StickyNotes1.exe.config
+D:\Binod Document\Soft\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.exe
+D:\Binod Document\Soft\StickyNotes1\StickyNotes1\obj\Debug\StickyNotes1.pdb
